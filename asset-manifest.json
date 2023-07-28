@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ramaalali-adv-task1/static/css/main.cce6e51c.css",
-    "main.js": "/ramaalali-adv-task1/static/js/main.6c9d565f.js",
-    "static/js/787.d108c003.chunk.js": "/ramaalali-adv-task1/static/js/787.d108c003.chunk.js",
-    "static/media/istockphoto-1171193292-612x612-removebg-preview.png": "/ramaalali-adv-task1/static/media/istockphoto-1171193292-612x612-removebg-preview.550ffc538972f5a8cab1.png",
-    "static/media/homologado-dnre.svg": "/ramaalali-adv-task1/static/media/homologado-dnre.d974ec1bc51bd61d535e59e75fb20c79.svg",
-    "static/media/footer-bg.png": "/ramaalali-adv-task1/static/media/footer-bg.7d736a591de6c328f321.png",
-    "static/media/faturacao-eletronica-removebg-preview.png": "/ramaalali-adv-task1/static/media/faturacao-eletronica-removebg-preview.5defd88df836be493eb4.png",
-    "index.html": "/ramaalali-adv-task1/index.html",
-    "main.cce6e51c.css.map": "/ramaalali-adv-task1/static/css/main.cce6e51c.css.map",
-    "main.6c9d565f.js.map": "/ramaalali-adv-task1/static/js/main.6c9d565f.js.map",
-    "787.d108c003.chunk.js.map": "/ramaalali-adv-task1/static/js/787.d108c003.chunk.js.map"
+    "main.css": "/Ramaali-Adv-Task1/static/css/main.39862dd8.css",
+    "main.js": "/Ramaali-Adv-Task1/static/js/main.b230172e.js",
+    "static/js/787.d108c003.chunk.js": "/Ramaali-Adv-Task1/static/js/787.d108c003.chunk.js",
+    "static/media/istockphoto-1171193292-612x612-removebg-preview.png": "/Ramaali-Adv-Task1/static/media/istockphoto-1171193292-612x612-removebg-preview.550ffc538972f5a8cab1.png",
+    "static/media/homologado-dnre.svg": "/Ramaali-Adv-Task1/static/media/homologado-dnre.d974ec1bc51bd61d535e59e75fb20c79.svg",
+    "static/media/footer-bg.png": "/Ramaali-Adv-Task1/static/media/footer-bg.7d736a591de6c328f321.png",
+    "static/media/faturacao-eletronica-removebg-preview.png": "/Ramaali-Adv-Task1/static/media/faturacao-eletronica-removebg-preview.5defd88df836be493eb4.png",
+    "index.html": "/Ramaali-Adv-Task1/index.html",
+    "main.39862dd8.css.map": "/Ramaali-Adv-Task1/static/css/main.39862dd8.css.map",
+    "main.b230172e.js.map": "/Ramaali-Adv-Task1/static/js/main.b230172e.js.map",
+    "787.d108c003.chunk.js.map": "/Ramaali-Adv-Task1/static/js/787.d108c003.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cce6e51c.css",
-    "static/js/main.6c9d565f.js"
+    "static/css/main.39862dd8.css",
+    "static/js/main.b230172e.js"
   ]
 }
